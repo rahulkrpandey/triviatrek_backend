@@ -1,1 +1,0 @@
-# triviatrek_backend
